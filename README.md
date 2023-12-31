@@ -16,15 +16,15 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-# 🕺Holopin Badges:
-[![An image of @kom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kom)](https://holopin.io/@kom)
 
 # 📊 GitHub Stats:
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kom-senapati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kom-senapati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
-</div>
+[![kom-senapati's GitHub | Stats](https://stats.quine.sh/kom-senapati/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kom-senapati)
+[![kom-senapati's GitHub | Dependencies](https://stats.quine.sh/kom-senapati/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kom-senapati)
+<br>
 
+# 🕺Holopin Badges:
+<img src="https://holopin.me/kom" width="500"/>
+<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
