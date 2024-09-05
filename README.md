@@ -16,8 +16,45 @@
 ## 🧑‍💻 Coding and Writing profiles:
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/kom-senapati) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/komnoob123) [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/komsenapati)
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Skillset:
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Database</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c" alt="C" />
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" alt="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+    </td>
+  </tr>
+</table>
+
 
 <details>
 <summary><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  GitHub Stats:</h1></summary>
