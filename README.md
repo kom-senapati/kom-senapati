@@ -59,7 +59,30 @@
 <details>
 <summary><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  GitHub Stats:</h1></summary>
 
-[![kom-senapati's GitHub | Stats](https://stats.quine.sh/kom-senapati/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kom-senapati)
+<p align="center">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
+    <img src="https://stats.quira.sh/kom-senapati/github?theme=dark" alt="kom-senapati's GitHub | Stats" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <th>Languages Over Time</th>
+    <th>Topics Over Time</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
+        <img src="https://stats.quira.sh/kom-senapati/languages-over-time?theme=dark" alt="kom-senapati's GitHub | Languages Over Time" />
+      </a>
+    </td>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
+        <img src="https://stats.quira.sh/kom-senapati/topics-over-time?theme=dark" alt="kom-senapati's GitHub | Topics Over Time" />
+      </a>
+    </td>
+  </tr>
+</table>
 </details>
 
 <details>
