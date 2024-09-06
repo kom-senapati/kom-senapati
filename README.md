@@ -69,78 +69,91 @@
 </div>
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Skillset:
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>Database</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c" alt="C" />
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react" alt="React" />
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-    </td>
-  </tr>
-</table>
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Skillset:
+<div align="center">
+  <table>
+    <tr>
+      <th>Languages</th>
+      <th>Database</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=c" alt="C" />
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+      </td>
+    </tr>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=react" alt="React" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <details>
-<summary><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  GitHub Stats:</h1></summary>
+  <summary>
+    <h2>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
+      GitHub Stats:
+    </h2>
+  </summary>
 
-<p align="center">
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
-    <img src="https://stats.quira.sh/kom-senapati/github?theme=dark" alt="kom-senapati's GitHub | Stats" />
-  </a>
-</p>
-
-<table>
-  <tr>
-    <th>Languages Over Time</th>
-    <th>Topics Over Time</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
-        <img src="https://stats.quira.sh/kom-senapati/languages-over-time?theme=dark" alt="kom-senapati's GitHub | Languages Over Time" />
-      </a>
-    </td>
-    <td>
-      <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
-        <img src="https://stats.quira.sh/kom-senapati/topics-over-time?theme=dark" alt="kom-senapati's GitHub | Topics Over Time" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <p align="center">
+    <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
+      <img src="https://stats.quira.sh/kom-senapati/github?theme=dark" alt="kom-senapati's GitHub | Stats" />
+    </a>
+  </p>
+  
+  <table>
+    <tr>
+      <th>Languages Over Time</th>
+      <th>Topics Over Time</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
+          <img src="https://stats.quira.sh/kom-senapati/languages-over-time?theme=dark" alt="kom-senapati's GitHub | Languages Over Time" />
+        </a>
+      </td>
+      <td>
+        <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
+          <img src="https://stats.quira.sh/kom-senapati/topics-over-time?theme=dark" alt="kom-senapati's GitHub | Topics Over Time" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <details>
-<summary><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Dancing.webp" alt="Man Dancing" width="25" height="25" /> Holopin Badges:</h1></summary>
-
-<img src="https://holopin.me/kom" width="500"/>
+    <summary>
+    <h2>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Dancing.webp" alt="Man Dancing" width="25" height="25" /> 
+      Holopin Badges:
+    </h2>
+  </summary>
+  
+  <div align="center">
+    <img src="https://holopin.me/kom" width="500"/>
+  </div>
 </details>
 
