@@ -157,3 +157,6 @@
   </div>
 </details>
 
+If you appreciate my work and want to support me, you can make a donation through PayPal:
+
+[![Support Me](https://img.shields.io/badge/Support%20Me-FFCC00?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/komsenapati?country.x=IN&locale.x=en_GB)
