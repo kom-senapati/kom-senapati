@@ -72,26 +72,20 @@
   <summary>
     <h2>Achievements 🚀</h2>
   </summary>
+  <br>
 
-  <details>
-    <summary>Hackathons 🏆</summary>
-  
   - 🥇 Winner of the **Octohub 2023 Hackathon** – [LinkedIn post](https://www.linkedin.com/posts/kom-senapati_octohub2023-opensourcemagic-activity-7144652915033423872-buF6?utm_source=share&utm_medium=member_desktop)
   - 🎉 Triumphed in the **Scaler Node.js Project Challenge** – [Watch stream](https://youtu.be/q189YNqFn0g?t=114)
   - 🏅 First place in the **Code Dex Summer Hackathon 2024** – [Read blog](https://www.codedex.io/blog/summer-hackathon-2024-winners)
   - 🌟 Top Contributor at the **VSOC Event** – [Achievement post](https://www.linkedin.com/posts/kom-senapati_achievementunlocked-vsoc-grateful-activity-7230537634563956736-y9BC?utm_source=share&utm_medium=member_desktop)
   - 🏆 Winner of the **Arcjet Challenge** – [Twitter post](https://x.com/kom_senapati/status/1818158159888089301)
-  
-  </details>
-  
-  <details>
-    <summary>Quira Quests 🎯</summary>
-  
-  - 🔍 **Submissions for Quira quests** – [View here](https://quira.sh/user/kom-senapati)
-  - 📹 Watch all my project demos in this **YouTube playlist** – [Check out the playlist](https://youtube.com/playlist?list=PL6zMZducGTyqzVceOIxmveFZOeZmyJ3sC&si=u2LInMAsaap_vrad)
-  
-  </details>
 </details>
+
+<!--
+Quira Quests 🎯
+- 🔍 **Submissions for Quira quests** – [View here](https://quira.sh/user/kom-senapati)
+- 📹 Watch all my project demos in this **YouTube playlist** – [Check out the playlist](https://youtube.com/playlist?list=PL6zMZducGTyqzVceOIxmveFZOeZmyJ3sC&si=u2LInMAsaap_vrad)
+-->
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Skillset:
