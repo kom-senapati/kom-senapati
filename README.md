@@ -176,6 +176,17 @@ Quira Quests 🎯
   </div>
 </details>
 
+<details>
+    <summary>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat.webp" alt="Cat" width="25" height="25" />
+          Octocat:
+    </summary>
+    <div align="center">
+      <img alt="octocat" src="https://github.com/user-attachments/assets/a57b04f8-ed06-47f1-8612-b659c153302e" width="300" />
+      <p>Get your Octocat at: <a href="https://myoctocat.com/">myoctocat.com</a></p>
+    </div>
+</details>
+
 If you appreciate my work and want to support me, you can make a donation through PayPal:
 
 [![Support Me](https://img.shields.io/badge/Support%20Me-FFCC00?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/komsenapati?country.x=IN&locale.x=en_GB)
