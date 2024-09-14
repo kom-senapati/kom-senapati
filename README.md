@@ -1,5 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Kom Senapati</h1>
-<h3 align="center">Python and Data Science enthusiast</h3>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/47ccc9a1-94c4-4b04-bdb9-95ad530df515" alt="github header" />
+</div>
+
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Kom Senapati</h1>
+<h3 align="center">Python and Data Science enthusiast</h3> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/kom-senapati/kom-senapati/assets/92045934/261cd5ff-8807-4612-8f5e-a9cc54b81da6"> -->
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Me:
