@@ -220,3 +220,11 @@ If you appreciate my work and want to support me, you can donate through PayPal 
       <p>Get your Octocat at: <a href="https://myoctocat.com/">myoctocat.com</a></p>
     </div>
 </details>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Thanks & Dev Quote -------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+Thanks for stopping by! 🙌 If you found something useful or enjoyed exploring my work, feel free to reach out or contribute to my projects.
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
