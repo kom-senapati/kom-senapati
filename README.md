@@ -162,7 +162,7 @@ If you appreciate my work and want to support me, you can donate through PayPal 
   </summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Dayotana in your NextJS app](https://dev.to/komsenapati/integrate-dayotana-in-your-nextjs-app-36ei)
+- [Integrate Daytona in your NextJS app](https://dev.to/komsenapati/integrate-dayotana-in-your-nextjs-app-36ei)
 - [Deploy a bento to GitHub Pages](https://dev.to/komsenapati/deploy-a-bento-to-github-pages-2b2d)
 - [Hacktoberfest 2024: A Journey of Learning and Contribution](https://dev.to/komsenapati/hacktoberfest-2024-a-journey-of-learning-and-contribution-1a64)
 - [Create a Movie Suggestion Bot](https://dev.to/komsenapati/create-a-movie-suggestion-bot-f8b)
