@@ -18,68 +18,6 @@
 💬 Ask me about Python and SQL.
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Socials ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Mirror%20Ball.webp" alt="Mirror Ball" width="25" height="25" /> Socials:
-<div align="center">
-  <a href="https://www.youtube.com/@kom_senapati">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <br>
-
-  <a href="https://x.com/kom_senapati">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kom-senapati/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <br>
-
-  <a href="https://t.me/kom_senapati">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/8249452708">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:komnoob123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <br>
-  
-  <a href="https://app.daily.dev/komsenapati">
-    <img src="https://img.shields.io/badge/dailydotdev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=white" />
-  </a>
-  <a href="https://oss.fyi/kom-senapati">
-    <img src="https://img.shields.io/badge/OpenSauced-F06837?style=for-the-badge&logo=open-sauced&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/800578362082459719">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/kom-senapati/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <br>
-
-  <a href="https://www.hackerrank.com/profile/komnoob123">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/komnoob123/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://peerlist.io/kom_senapati">
-    <img src="https://img.shields.io/badge/Peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=white" />
-  </a>
-  <a href="https://dev.to/komsenapati">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="https://hashnode.com/@kom-senapati">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <br>
-</div>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Achievements -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
@@ -153,13 +91,11 @@ If you appreciate my work and want to support me, you can donate through PayPal 
 <!--- -- Blogs --------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<details>
-  <summary>
-    <h2>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" />  
-      Blog Posts:
-    </h2>
-  </summary>
+
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" />  
+Blog Posts:
+</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Building Talk-to-Page: Chat or Talk with Any Website](https://dev.to/komsenapati/building-talk-to-page-chat-or-talk-with-any-website-g0h)
@@ -169,67 +105,36 @@ If you appreciate my work and want to support me, you can donate through PayPal 
 - [Create a Movie Suggestion Bot](https://dev.to/komsenapati/create-a-movie-suggestion-bot-f8b)
 <!-- BLOG-POST-LIST:END -->
 
-</details>
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<details>
-  <summary>
-    <h2>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
-      GitHub Stats:
-    </h2>
-  </summary>
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
+  GitHub Stats:
+</h2>
 
-  <p align="center">
-    <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
-      <img src="https://stats.quira.sh/kom-senapati/github?theme=dark" alt="kom-senapati's GitHub | Stats" />
-    </a>
-  </p>
-  
-  <table>
-    <tr>
-      <th>Languages Over Time</th>
-      <th>Topics Over Time</th>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
-          <img src="https://stats.quira.sh/kom-senapati/languages-over-time?theme=dark" alt="kom-senapati's GitHub | Languages Over Time" />
-        </a>
-      </td>
-      <td>
-        <a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
-          <img src="https://stats.quira.sh/kom-senapati/topics-over-time?theme=dark" alt="kom-senapati's GitHub | Topics Over Time" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</details>
+<img src="https://github-readme-stats.vercel.app/api?username=kom-senapati&show_icons=true&theme=dark&card_width=400" height="200"/>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Holopin Badges ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<details>
-  <summary>
-    <h2>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Dancing.webp" alt="Man Dancing" width="25" height="25" /> 
-      Holopin Badges:
-    </h2>
-  </summary>
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Dancing.webp" alt="Man Dancing" width="25" height="25" /> 
+  Holopin Badges:
+</h2>
   
-  <div align="center">
-    <img src="https://holopin.me/kom" width="500"/>
-  </div>
-</details>
+<div align="center">
+  <img src="https://holopin.me/kom" width="500"/>
+</div>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Octocat ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+<!--
 <details>
     <summary>
       <h2>
@@ -242,11 +147,10 @@ If you appreciate my work and want to support me, you can donate through PayPal 
       <p>Get your Octocat at: <a href="https://myoctocat.com/">myoctocat.com</a></p>
     </div>
 </details>
+-->
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Thanks & Dev Quote -------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 Thanks for stopping by! 🙌 If you found something useful or enjoyed exploring my work, feel free to reach out or contribute to my projects.
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
