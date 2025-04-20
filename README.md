@@ -98,11 +98,11 @@ Blog Posts:
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Dissi with Agno and MCP](https://dev.to/komsenapati/building-dissi-with-agno-and-mcp-4044)
 - [Building Talk-to-Page: Chat or Talk with Any Website](https://dev.to/komsenapati/building-talk-to-page-chat-or-talk-with-any-website-g0h)
 - [Integrate Daytona in your NextJS app](https://dev.to/komsenapati/integrate-dayotana-in-your-nextjs-app-36ei)
 - [Deploy a bento to GitHub Pages](https://dev.to/komsenapati/deploy-a-bento-to-github-pages-2b2d)
 - [Hacktoberfest 2024: A Journey of Learning and Contribution](https://dev.to/komsenapati/hacktoberfest-2024-a-journey-of-learning-and-contribution-1a64)
-- [Create a Movie Suggestion Bot](https://dev.to/komsenapati/create-a-movie-suggestion-bot-f8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
